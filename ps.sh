@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ps aux"
+ps aux
