@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo -e "Content-type: text/html\n"
 echo "<html><body"
 echo "<h1>top</h1>"
