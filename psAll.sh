@@ -7,8 +7,4 @@ for f in *.sh; do
 	bash "$f" -H
 done
 echo "</pre>"
-echo "<h1>ps</h1>"
-echo "<pre>"
-ps aux
-echo "</pre>"
 echo "</body></html>"
