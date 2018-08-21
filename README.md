@@ -76,6 +76,12 @@ cat ~/.ssh/id_rsa.pub | ssh daniel2@10.0.2.15 "mkdir -p ~/.ssh && cat >> ~/.ssh/
 ```
 *\*ssh-connect-setup.sh*
 
+**Add the following code to the .ssh/config file to ensure git uses port 22**
+```
+Host localhost 
+Port 22
+```
+
 **Step 7: Make DocumentRoot owner the current user (ON REMOTE/Production machine)**
 
 `sudo chown -R `whoami`:`id -gn` /var/www/html`
