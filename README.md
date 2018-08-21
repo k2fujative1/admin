@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/k2fujative1/admin/master/empire.jpg)
+
 **README**
 
 PREREQUISITES:
@@ -29,6 +31,8 @@ ssh
 **Step 1: Set up two hosts with the above parameters, 4gb of memory, and 10gb of hdd space. **
 
 **Step 2: Create a network called EmpireNet:**
+
+![alt text](https://raw.githubusercontent.com/k2fujative1/admin/master/Capture.PNG)
 
 **You will be using this network AFTER YOU'VE FINISHED UPDATING THE MACHINES.**
 
