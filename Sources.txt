@@ -1,0 +1,11 @@
+Sources:
+http://toroid.org/git-website-howto
+https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
+https://www.linuxquestions.org/questions/linux-general-1/execute-sh-files-in-webbrowser-with-apache2-as-server-4175553453/ (Make webpage execute scripts)
+https://unix.stackexchange.com/questions/32098/problem-with-bash-script-executed-from-website
+https://hallard.me/enable-ssl-for-apache-server-in-5-minutes/ (Enable SSL on webserver)
+https://stackoverflow.com/questions/1517411/how-to-run-every-script-in-a-directory-except-itself (website that shows how to exit scripts after execution)
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/ (How to add git repo to my repo on github)
+
+fix git repo origin duplication error: git remote set-url origin git@github.com:ppreyer/first_app.git
+https://www.namecheap.com/support/knowledgebase/article.aspx/9821/38/redirect-to-https-on-apache
